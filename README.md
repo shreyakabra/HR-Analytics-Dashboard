@@ -3,9 +3,8 @@
 This project showcases an interactive HR Analytics Dashboard built using **Tableau** to visualize and analyze employee data.
 
 ## Files Included
-- `![HR _ Summary](https://github.com/user-attachments/assets/140d1edb-852c-4a7a-9af6-6680bb787553)
- `: Overview Dashboard Screenshot
-- `![HR _ Detailed](https://github.com/user-attachments/assets/fbc32b7f-e0b0-48ad-bf9a-25bf98c2f144)`: Employee List & Detailed Dashboard Screenshot
+- `HR _ Summary.png`: Overview Dashboard Screenshot
+- `HR _ Detailed.png`: Employee List & Detailed Dashboard Screenshot
 - `[HR Dashboard](https://public.tableau.com/views/HRDashboard_17210543569440/HRDetailed?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)`: Tableau Dashboard File
 - `HumanResources.csv`: Sample dataset used (anonymized)
 
